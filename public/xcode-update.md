@@ -1,13 +1,13 @@
 ---
 title: 【macOS】Xcodeをアップデートしたのにxcodebuildのバージョンが古いままの時の対処法
 tags:
-  - macOS
   - Xcode
-  - xcodebuild
+  - macOS
   - xcode-select
+  - xcodebuild
 private: false
-updated_at: "2025-06-26T10:12:19+09:00"
-id: null
+updated_at: '2025-06-26T10:17:21+09:00'
+id: ee8e8676f841ae8000e3
 organization_url_name: null
 slide: false
 ignorePublish: false
