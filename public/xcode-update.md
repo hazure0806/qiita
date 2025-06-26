@@ -5,8 +5,9 @@ tags:
   - macOS
   - xcode-select
   - xcodebuild
+  - 備忘録
 private: false
-updated_at: '2025-06-26T10:17:21+09:00'
+updated_at: "2025-06-26T10:17:21+09:00"
 id: ee8e8676f841ae8000e3
 organization_url_name: null
 slide: false
